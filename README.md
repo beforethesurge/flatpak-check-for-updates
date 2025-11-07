@@ -1,3 +1,3 @@
-# pacman-flatpak-check-for-updates
+# flatpak-check-for-updates
 
 Best if used in cronjob
